@@ -3,7 +3,12 @@ node_modules
 coverage
 coverage.json
 typechain
+.idea
+*.iml
 
 #Hardhat files
 cache
 artifacts
+deployments
+circuits/build
+*.ptau
